@@ -1,5 +1,6 @@
 # gitoefeningen
 ## this is a fork of the original repo for exercises for werkveldexploratie
+dit is de versie van Laura
 
 ## Doel van deze github repository
 
