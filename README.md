@@ -1,5 +1,8 @@
 # gitoefeningen
 ## this is a fork of the original repo for exercises for werkveldexploratie
+now it's in a branch
+now there's a second branch
+
 dit is de versie van Laura
 
 weewoo weewoo weesnoo weewoo 
