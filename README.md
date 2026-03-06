@@ -2,7 +2,7 @@
 ## this is a fork of the original repo for exercises for werkveldexploratie
 dit is de versie van Laura
 
-weewoo weewoo weewoo weewoo 
+weewoo weewoo wsick weewoo 
 
 
 According to all known laws of aviation, there is no way a bee should be able to fly.
