@@ -1,6 +1,7 @@
 # gitoefeningen
 ## this is a fork of the original repo for exercises for werkveldexploratie
 now it's in a branch
+now there's a second branch
 
 ## Doel van deze github repository
 
